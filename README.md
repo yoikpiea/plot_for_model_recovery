@@ -19,6 +19,7 @@ The visualizations are created using the `ggplot2`, `ggbeeswarm`, and `patchwork
 - `ggplot2` package
 - `ggbeeswarm` package
 - `patchwork` package
+- `dplyr` package
 
 ## Run the Script:
 
