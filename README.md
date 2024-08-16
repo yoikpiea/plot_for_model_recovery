@@ -11,7 +11,7 @@ This R code visualizes model recovery results using simulated and experimental d
 1. **Density Plot (p1):** Displays the density distribution of experimental data with a shaded confidence interval.
 2. **Boxplot with Beeswarm Plot (p2):** Shows the distribution of simulated data using a transparent boxplot combined with a beeswarm plot, where the median line is emphasized.
 
-The visualizations are created using the `ggplot2`, `ggbeeswarm`, and `patchwork` packages.
+The visualizations are created using the `ggplot2`, `ggbeeswarm`,  `patchwork` and `dplyr`packages.
 
 ## Requirements
 
